@@ -1,0 +1,13 @@
+C:\Users\Public\Documents\BitBucket\Microsoft\Labs\ExistingCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\bergs\swcguild\Section 2\Battleship (2)\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\bergs\swcguild\Section 2\Battleship\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.pdb

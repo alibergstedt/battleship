@@ -1,0 +1,5 @@
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.BLL\bin\Release\BattleShip.BLL.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.BLL\bin\Release\BattleShip.BLL.pdb
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.BLL\obj\Release\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.BLL\obj\Release\BattleShip.BLL.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\Battleship\Battleship\BattleShip_Start\BattleShip.BLL\obj\Release\BattleShip.BLL.pdb
